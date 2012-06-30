@@ -8,6 +8,7 @@
 
 	<properties>
 		<world>Worldddddddd! 22222</world>
+		<world3>world3</world3>
 	</properties>
 
 	<dependencyManagement>
